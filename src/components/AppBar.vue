@@ -27,7 +27,9 @@
       <v-list nav dense shaped>
         <v-list-item
           v-for="(item, index) in enlaces" :key="index"
-          link :to="{name: item.nombre}" exact>
+          link :to="{ name: item.nombre }" 
+          exact
+        >
           {{ item.nombre }}
         </v-list-item>
       </v-list>

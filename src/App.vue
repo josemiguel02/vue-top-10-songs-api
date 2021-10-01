@@ -13,10 +13,7 @@ import Home from "./views/Home.vue";
 
 export default {
   name: "App",
-
-  data: () => ({
-    //
-  }),
+  
   components: {
     AppBar,
     Home

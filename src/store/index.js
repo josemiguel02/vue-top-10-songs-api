@@ -19,9 +19,5 @@ export default new Vuex.Store({
     ocultarLoading(state) {
       state.loading.estado = false;
     }
-  },
-  actions: {
-  },
-  modules: {
   }
 })

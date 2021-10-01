@@ -3,7 +3,8 @@
     class="ma-4"
     dark
     src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
-    height="500">
+    height="500"
+  >
     <v-row align="center" justify="center">
       <v-col class="text-center" cols="12">
         <h1 class="display-1 font-weight-thin mb-4">
@@ -19,12 +20,6 @@
 
 <script>
 export default {
-  name: "Home",
-
-  components: {},
-
-  data() {
-    return {};
-  },
-};
+  name: 'Home',
+}
 </script>
