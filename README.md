@@ -1,4 +1,4 @@
-# vuetify-app
+# Vue API Search Music 💚🚀
 
 ## Project setup
 ```
