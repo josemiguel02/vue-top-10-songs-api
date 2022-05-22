@@ -22,13 +22,13 @@ This project is about a search for the Top 10 Songs of an artist made with VueJS
 ## Built With
 <div style='display: flex; gap: .6em'>
 <a href='https://vuejs.org'>
-  <img src='https://emojis.slackmojis.com/emojis/images/1643514187/1537/vue.png?1643514187' height='60'>
+  <img src='https://emojis.slackmojis.com/emojis/images/1643514187/1537/vue.png?1643514187' height='60' style='display: block;'>
 
   <img src='https://img.shields.io/badge/VueJS-succes' height='22'>
 </a>
 
 <a href='https://vuetifyjs.com'>
-  <img src='https://chevere.tech/static/img/vuetify.624068b.png' height='60'>
+  <img src='https://chevere.tech/static/img/vuetify.624068b.png' height='60' style='display: block;'>
 
   <img src='https://img.shields.io/badge/Vuetify-blue' height='22'>
 </a>
@@ -61,7 +61,7 @@ Build the project
 
 
 ## Demo
-- [View demo](https://vue-top-10-songs-api.pages.dev)
+- [View demo](https://vue-api-search-music.pages.dev)
 
 
 ## Contact
