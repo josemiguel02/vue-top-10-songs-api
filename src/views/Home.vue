@@ -2,17 +2,14 @@
   <v-parallax
     class="ma-4"
     dark
-    src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
+    src="https://nexcel.cl/wp-content/uploads/2016/10/music-parallax-5.jpg"
     height="500"
   >
     <v-row align="center" justify="center">
       <v-col class="text-center" cols="12">
         <h1 class="display-1 font-weight-thin mb-4">
-          Vuetify
+          Vue Top 10 Songs API
         </h1>
-        <h4 class="subheading">
-          Build your application today!
-        </h4>
       </v-col>
     </v-row>
   </v-parallax>
