@@ -24,9 +24,7 @@ This project is about a search for the Top 10 Songs of an artist made with VueJS
 
 [![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](https://vuejs.org)
 
-<a href='https://vuetifyjs.com'>
-  <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZPKXaKcsUSEvQqOPsmqj_vbgsvUp2mSqqH3cuZlfQcwlC_A_tAHGt5OlZT0SLO73emw&usqp=CAU' width='90'>
-</a>
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify)](https://vuetifyjs.com)
 
 ## Installation
 
